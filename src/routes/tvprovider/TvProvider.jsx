@@ -4,7 +4,7 @@ const TvProvider = () => {
   return (
     <div>
 
-        <h1>salom dunyo</h1>
+        <h1></h1>
     </div>
   )
 }
